@@ -14,3 +14,6 @@ This app was created as a part of my learning about ElectronJs Framework. I made
 
 ## Feature
 Read a .txt file with some text and count how many times a word is repeated inside it.
+
+## App Working
+![](MostUsedWords.gif)
